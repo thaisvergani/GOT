@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GOT</string>
+    <string name="tab_text_1">Casas</string>
+    <string name="tab_text_2">Livros</string>
+    <string name="tab_text_3">Personagens</string>
+</resources>
